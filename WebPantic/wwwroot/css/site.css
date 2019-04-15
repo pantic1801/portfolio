@@ -1,0 +1,42 @@
+﻿body {
+    background: url(/images/code.jpg), no-repeat center center fixed;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pd{
+    padding-top: 10px;
+}
+
+.pdimg{
+   padding-bottom: 15px;
+    
+}
+
+.navcol{
+    background-image: linear-gradient(to right, #0e366d, #4ba8e5 );
+    
+}
+
+.concol {
+    background-image: linear-gradient(to right, #dd7a0d, #0e366d );
+}
+.text-light{
+    color: white;
+}
+
+.bck{
+    background-color: cornflowerblue;
+}
+
+
+
+
